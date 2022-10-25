@@ -26,6 +26,15 @@
 
 .card-date {color: grey;}
 
+.stars{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.stars img{
+    width: 25px;
+}
 
 /* responsive iphone et ipad */
 @media only screen and (max-width: 600px){
